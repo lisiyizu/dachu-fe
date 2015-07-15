@@ -4,28 +4,6 @@ Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documen
 
 ## Quick Start
 
-### Hexo Install
-
-``` bash
-$ npm install hexo-cli -g
-$ hexo init blog
-$ cd blog
-$ npm install
-$ hexo server
-```
-
-### Hexo Git
-vi  _config.yml  
-
-``` bash
-# Deployment
-## Docs: http://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://github.com/lisiyizu/lisiyizu.github.io.git
-```
-
-
 ### Create a new post
 
 ``` bash

@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 大厨网前端
+title: Hexo
 subtitle:
 description:
-author: 大厨网前端
+author: John Doe
 language:
 timezone:
 
@@ -63,10 +63,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: yilia
+theme: landscape
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git
+  type: git 
   repo: https://github.com/lisiyizu/lisiyizu.github.io.git
