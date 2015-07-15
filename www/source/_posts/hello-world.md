@@ -18,19 +18,7 @@ $ hexo server
 ### Hexo Git 配置
 
 ``` bash
-第一步：
-        安装 npm install hexo-deployer-git --save
-第二步：
-       vi _config.yml
--------------------------------------------------
-# Deployment
-## Docs: http://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://github.com/xxxxxx/xxxxxxxxx.git
- 
-```
-
+ 安装 :  npm install hexo-deployer-git --save
 ### 创建新的文件
 
 ``` bash
